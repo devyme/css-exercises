@@ -1,0 +1,21 @@
+.style1 {
+  font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+  background-color: rgb(245, 182, 193);
+}
+
+
+
+#style2 {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#style3 {
+    background-color: rgb(97, 240, 97);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.style4 {
+    font-size: 24px;
+}
